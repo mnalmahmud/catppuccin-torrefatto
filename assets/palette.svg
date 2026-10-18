@@ -6,30 +6,30 @@
   <text x="55" y="39" fill="#c3c8d6" font-size="15" font-weight="700" letter-spacing="2" font-family="Inter, Segoe UI, Arial, sans-serif">ACCENTS</text>
   <rect x="55.00" y="52" width="72.29" height="45" rx="7" fill="#f8ebea" stroke="#525464" stroke-opacity="0.6"><title>rosewater · #f8ebea</title></rect>
   <rect x="133.29" y="52" width="72.29" height="45" rx="7" fill="#f7dcdc" stroke="#525464" stroke-opacity="0.6"><title>flamingo · #f7dcdc</title></rect>
-  <rect x="211.58" y="52" width="72.29" height="45" rx="7" fill="#f5d0ea" stroke="#525464" stroke-opacity="0.6"><title>pink · #f5d0ea</title></rect>
-  <rect x="289.87" y="52" width="72.29" height="45" rx="7" fill="#d6b0f7" stroke="#525464" stroke-opacity="0.6"><title>mauve · #d6b0f7</title></rect>
-  <rect x="368.16" y="52" width="72.29" height="45" rx="7" fill="#ff92bb" stroke="#525464" stroke-opacity="0.6"><title>red · #ff92bb</title></rect>
-  <rect x="446.45" y="52" width="72.29" height="45" rx="7" fill="#e4b4c8" stroke="#525464" stroke-opacity="0.6"><title>maroon · #e4b4c8</title></rect>
-  <rect x="524.74" y="52" width="72.29" height="45" rx="7" fill="#ffcea0" stroke="#525464" stroke-opacity="0.6"><title>peach · #ffcea0</title></rect>
-  <rect x="603.03" y="52" width="72.29" height="45" rx="7" fill="#fff8d0" stroke="#525464" stroke-opacity="0.6"><title>yellow · #fff8d0</title></rect>
-  <rect x="681.32" y="52" width="72.29" height="45" rx="7" fill="#a5fcc0" stroke="#525464" stroke-opacity="0.6"><title>green · #a5fcc0</title></rect>
-  <rect x="759.61" y="52" width="72.29" height="45" rx="7" fill="#b3ffef" stroke="#525464" stroke-opacity="0.6"><title>teal · #b3ffef</title></rect>
-  <rect x="837.90" y="52" width="72.29" height="45" rx="7" fill="#70e7ff" stroke="#525464" stroke-opacity="0.6"><title>sky · #70e7ff</title></rect>
-  <rect x="916.19" y="52" width="72.29" height="45" rx="7" fill="#5bcfff" stroke="#525464" stroke-opacity="0.6"><title>sapphire · #5bcfff</title></rect>
-  <rect x="994.48" y="52" width="72.29" height="45" rx="7" fill="#8bc3ff" stroke="#525464" stroke-opacity="0.6"><title>blue · #8bc3ff</title></rect>
-  <rect x="1072.77" y="52" width="72.29" height="45" rx="7" fill="#b4c2ff" stroke="#525464" stroke-opacity="0.6"><title>lavender · #b4c2ff</title></rect>
+  <rect x="211.57" y="52" width="72.29" height="45" rx="7" fill="#f5d0ea" stroke="#525464" stroke-opacity="0.6"><title>pink · #f5d0ea</title></rect>
+  <rect x="289.86" y="52" width="72.29" height="45" rx="7" fill="#d6b0f7" stroke="#525464" stroke-opacity="0.6"><title>mauve · #d6b0f7</title></rect>
+  <rect x="368.14" y="52" width="72.29" height="45" rx="7" fill="#ff92bb" stroke="#525464" stroke-opacity="0.6"><title>red · #ff92bb</title></rect>
+  <rect x="446.43" y="52" width="72.29" height="45" rx="7" fill="#e4b4c8" stroke="#525464" stroke-opacity="0.6"><title>maroon · #e4b4c8</title></rect>
+  <rect x="524.71" y="52" width="72.29" height="45" rx="7" fill="#ffcea0" stroke="#525464" stroke-opacity="0.6"><title>peach · #ffcea0</title></rect>
+  <rect x="603.00" y="52" width="72.29" height="45" rx="7" fill="#fff8d0" stroke="#525464" stroke-opacity="0.6"><title>yellow · #fff8d0</title></rect>
+  <rect x="681.29" y="52" width="72.29" height="45" rx="7" fill="#a5fcc0" stroke="#525464" stroke-opacity="0.6"><title>green · #a5fcc0</title></rect>
+  <rect x="759.57" y="52" width="72.29" height="45" rx="7" fill="#b3ffef" stroke="#525464" stroke-opacity="0.6"><title>teal · #b3ffef</title></rect>
+  <rect x="837.86" y="52" width="72.29" height="45" rx="7" fill="#70e7ff" stroke="#525464" stroke-opacity="0.6"><title>sky · #70e7ff</title></rect>
+  <rect x="916.14" y="52" width="72.29" height="45" rx="7" fill="#5bcfff" stroke="#525464" stroke-opacity="0.6"><title>sapphire · #5bcfff</title></rect>
+  <rect x="994.43" y="52" width="72.29" height="45" rx="7" fill="#8bc3ff" stroke="#525464" stroke-opacity="0.6"><title>blue · #8bc3ff</title></rect>
+  <rect x="1072.71" y="52" width="72.29" height="45" rx="7" fill="#b4c2ff" stroke="#525464" stroke-opacity="0.6"><title>lavender · #b4c2ff</title></rect>
   <text x="55" y="128" fill="#c3c8d6" font-size="15" font-weight="700" letter-spacing="2" font-family="Inter, Segoe UI, Arial, sans-serif">BACKGROUND COLORS</text>
   <rect x="55.00" y="141" width="115.78" height="45" rx="7" fill="#040408" stroke="#525464" stroke-opacity="0.6"><title>crust · #040408</title></rect>
   <rect x="176.78" y="141" width="115.78" height="45" rx="7" fill="#0c0911" stroke="#525464" stroke-opacity="0.6"><title>mantle · #0c0911</title></rect>
   <rect x="298.56" y="141" width="115.78" height="45" rx="7" fill="#120f19" stroke="#525464" stroke-opacity="0.6"><title>base · #120f19</title></rect>
-  <rect x="420.34" y="141" width="115.78" height="45" rx="7" fill="#262632" stroke="#525464" stroke-opacity="0.6"><title>surface0 · #262632</title></rect>
-  <rect x="542.12" y="141" width="115.78" height="45" rx="7" fill="#3d3d48" stroke="#525464" stroke-opacity="0.6"><title>surface1 · #3d3d48</title></rect>
-  <rect x="663.90" y="141" width="115.78" height="45" rx="7" fill="#525464" stroke="#525464" stroke-opacity="0.6"><title>surface2 · #525464</title></rect>
-  <rect x="785.68" y="141" width="115.78" height="45" rx="7" fill="#696a7c" stroke="#525464" stroke-opacity="0.6"><title>overlay0 · #696a7c</title></rect>
-  <rect x="907.46" y="141" width="115.78" height="45" rx="7" fill="#7c7e8e" stroke="#525464" stroke-opacity="0.6"><title>overlay1 · #7c7e8e</title></rect>
-  <rect x="1029.24" y="141" width="115.78" height="45" rx="7" fill="#9396a4" stroke="#525464" stroke-opacity="0.6"><title>overlay2 · #9396a4</title></rect>
+  <rect x="420.33" y="141" width="115.78" height="45" rx="7" fill="#262632" stroke="#525464" stroke-opacity="0.6"><title>surface0 · #262632</title></rect>
+  <rect x="542.11" y="141" width="115.78" height="45" rx="7" fill="#3d3d48" stroke="#525464" stroke-opacity="0.6"><title>surface1 · #3d3d48</title></rect>
+  <rect x="663.89" y="141" width="115.78" height="45" rx="7" fill="#525464" stroke="#525464" stroke-opacity="0.6"><title>surface2 · #525464</title></rect>
+  <rect x="785.67" y="141" width="115.78" height="45" rx="7" fill="#696a7c" stroke="#525464" stroke-opacity="0.6"><title>overlay0 · #696a7c</title></rect>
+  <rect x="907.44" y="141" width="115.78" height="45" rx="7" fill="#7c7e8e" stroke="#525464" stroke-opacity="0.6"><title>overlay1 · #7c7e8e</title></rect>
+  <rect x="1029.22" y="141" width="115.78" height="45" rx="7" fill="#9396a4" stroke="#525464" stroke-opacity="0.6"><title>overlay2 · #9396a4</title></rect>
   <text x="55" y="217" fill="#c3c8d6" font-size="15" font-weight="700" letter-spacing="2" font-family="Inter, Segoe UI, Arial, sans-serif">TYPOGRAPHY</text>
   <rect x="55.00" y="230" width="359.33" height="45" rx="7" fill="#a9adc0" stroke="#525464" stroke-opacity="0.6"><title>subtext0 · #a9adc0</title></rect>
   <rect x="420.33" y="230" width="359.33" height="45" rx="7" fill="#c3c8d6" stroke="#525464" stroke-opacity="0.6"><title>subtext1 · #c3c8d6</title></rect>
-  <rect x="785.66" y="230" width="359.33" height="45" rx="7" fill="#d5dff2" stroke="#525464" stroke-opacity="0.6"><title>text · #d5dff2</title></rect>
+  <rect x="785.67" y="230" width="359.33" height="45" rx="7" fill="#d5dff2" stroke="#525464" stroke-opacity="0.6"><title>text · #d5dff2</title></rect>
 </svg>
