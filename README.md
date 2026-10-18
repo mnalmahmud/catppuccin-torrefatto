@@ -84,5 +84,3 @@ sed -E \
 ## License
 
 [MIT](LICENSE). Torrefatto is an independent project, not affiliated with or endorsed by Catppuccin.
-
-Near-black layer separation may vary by display; physical OLED/LCD validation is not claimed.
