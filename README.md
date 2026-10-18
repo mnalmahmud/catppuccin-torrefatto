@@ -4,7 +4,7 @@
 
 **tor-reh-FAHT-toh**
 
-An unofficial, deeper-than-Moretta [Catppuccin](https://catppuccin.com/)-inspired color palette.
+An unofficial, near-black [Catppuccin](https://catppuccin.com/)-inspired color palette.
 
 <img src="assets/palette.svg" alt="Torrefatto palette showing accents, background colors, and typography colors" width="100%">
 
@@ -32,7 +32,7 @@ An unofficial, deeper-than-Moretta [Catppuccin](https://catppuccin.com/)-inspire
 | Base | `#120f19` | Surface 0 | `#262632` |
 | Surface 1 | `#3d3d48` | Surface 2 | `#525464` |
 | Overlay 0 | `#696a7c` | Overlay 1 | `#7c7e8e` |
-| Overlay 2 | `#9396a4` |  |  |
+| Overlay 2 | `#9396a4` | | |
 
 ### Typography
 
