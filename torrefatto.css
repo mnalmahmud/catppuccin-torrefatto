@@ -1,0 +1,28 @@
+:root {
+  --ctp-torrefatto-crust: #040408;
+  --ctp-torrefatto-mantle: #0c0911;
+  --ctp-torrefatto-base: #120f19;
+  --ctp-torrefatto-surface0: #262632;
+  --ctp-torrefatto-surface1: #3d3d48;
+  --ctp-torrefatto-surface2: #525464;
+  --ctp-torrefatto-overlay0: #696a7c;
+  --ctp-torrefatto-overlay1: #7c7e8e;
+  --ctp-torrefatto-overlay2: #9396a4;
+  --ctp-torrefatto-subtext0: #a9adc0;
+  --ctp-torrefatto-subtext1: #c3c8d6;
+  --ctp-torrefatto-text: #d5dff2;
+  --ctp-torrefatto-rosewater: #f8ebea;
+  --ctp-torrefatto-flamingo: #f7dcdc;
+  --ctp-torrefatto-pink: #f5d0ea;
+  --ctp-torrefatto-mauve: #d6b0f7;
+  --ctp-torrefatto-red: #ff92bb;
+  --ctp-torrefatto-maroon: #e4b4c8;
+  --ctp-torrefatto-peach: #ffcea0;
+  --ctp-torrefatto-yellow: #fff8d0;
+  --ctp-torrefatto-green: #a5fcc0;
+  --ctp-torrefatto-teal: #b3ffef;
+  --ctp-torrefatto-sky: #70e7ff;
+  --ctp-torrefatto-sapphire: #5bcfff;
+  --ctp-torrefatto-blue: #8bc3ff;
+  --ctp-torrefatto-lavender: #b4c2ff;
+}
